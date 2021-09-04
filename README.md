@@ -5,4 +5,4 @@ grails create-plugin myplugin
 git tag <version>
 git push origin --tags
 
-https://github.com/codeconsole/myplugin/compare/3.1.8...3.3.0
+https://github.com/codeconsole/myplugin/compare/5.0.0.RC1...5.0.0.RC2
